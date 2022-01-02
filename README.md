@@ -1,5 +1,5 @@
 # Seafood Price Model
-> AI model that predicts seafood prices based on marine weather observation information.
+> AI model that predicts seafood prices based on marine weather observation information.  
 > [kaggle competition](https://www.kaggle.com/c/19981126-tp)
 
 
